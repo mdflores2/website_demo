@@ -1,0 +1,14 @@
+p {
+	font-size: 50px; 
+	text-align: center;
+}
+
+img {
+	height: 500px;
+}
+
+#books {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
