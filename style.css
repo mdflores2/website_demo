@@ -1,14 +1,20 @@
 p {
 	font-size: 50px; 
 	text-align: center;
+	color: white;
 }
 
 img {
 	height: 500px;
+	width: 50%;
 }
 
-#books {
+.movies {
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
+}
+
+body{
+	background-color: #3d3d3d;
 }
